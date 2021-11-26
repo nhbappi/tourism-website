@@ -1,0 +1,51 @@
+[
+    {   "id": 1,
+        "name": "Theresa Green",
+        "title": "PET GROOMER",
+        "about": "Theresa is shank pig cow hamburger. Ground round short loin meatbal loin porchetta.",
+        "email": "theresagreen@email.com",
+        "image": "https://demo.egenslab.com/html/tourx/assets/images/guide/guide-1.png"
+    },
+    {
+           "id": 2,
+
+        "name": "Rosie White",
+        "title": "CAT GROOMER",
+        "about": "Rosie is andouille picanha ball tip boudin cow bacon chuck swine pig tri-tip biltong bresaola.",
+        "email": "rosiemim@email.com",
+        "image": "https://demo.egenslab.com/html/tourx/assets/images/guide/guide-3.png"
+    },
+    {
+        "id": 3,
+        "name": "Estelle Marsh",
+        "title": "DOG GROOMER",
+        "about": "Estelle is biltong picanha capicola, burgdoggen spare ribs leberkas meatloaf. Pig bresaola t-bone.",
+        "email": "estellenarsh@email.com",
+        "image": "https://demo.egenslab.com/html/tourx/assets/images/guide/guide-4.png"
+    },
+    {
+        "id": 4,
+        "name": "Alberta Rogers",
+        "title": "RABBIT GROOMER",
+        "about": "Alberta is sed in ribeye nisi cillum. Ad leberkas labore cow, incididunt deserunt cillum aute elit.",
+        "email": "albertarogers@email.com",
+        "image": "https://demo.egenslab.com/html/tourx/assets/images/guide/guide-2.png"
+    },
+    {
+        "id": 5,
+        "name": "Bernard Lambert",
+        "title": "CAT GROOMER",
+        "about": "Bernard is rump laborum enim magna velit ipsum boudin. Short loin ipsum officia ea nisi dolor.",
+        "email": "bernardlabmrt@email.com",
+        "image": "https://demo.egenslab.com/html/tourx/assets/images/guide/guide-4.png"
+    },
+    {
+        "id": 6,
+        "name": "Frank Stephens",
+        "title": "RABBIT GROOMER",
+        "about": "Frank is mollit ipsum cupidatat commodo occaecat pariatur in eu porchetta landjaeger turkey aliqua.",
+        "email": "frankstep@email.com",
+        "image": "https://demo.egenslab.com/html/tourx/assets/images/guide/guide-4.png"
+    }
+ 
+]

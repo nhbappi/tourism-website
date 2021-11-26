@@ -1,0 +1,36 @@
+.header{
+    /* background-image: linear-gradient(to bottom right,rgba(198, 95, 207, 0.521), #7384e477); */
+    display: flex;
+    padding: 20px;
+    
+}
+
+.inactive {
+    text-decoration: none;
+    color: white;
+    font-weight: 800;
+
+}
+
+/* .inactive:hover {
+    color: #6675fc;
+} */
+
+/* .img-part {
+  width: 40px;
+ 
+} */
+.nav-container {
+    display: flex;
+    grid-column-gap: 50px;
+    float: right;
+    margin-right: 80px;
+}
+.nav-container a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 10px;
+
+}

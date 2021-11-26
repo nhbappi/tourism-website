@@ -1,0 +1,51 @@
+[
+    {
+    "id": 1,
+    "name": "Paris Hill Tour",
+    "Cost": 250,
+    "description": "We slowly crept around the corner, finally sneaking a peek at our cabin. As I hopped out of the front seat of the truck, a sharp sense of loneliness came over me. I looked around and saw nothing but the leaves on the trees glittering from the constant blowing wind. Catching myself standing staring around me at all the beautiful trees, I noticed that the trees have not changed at all, but still stand tall and as close as usual.",
+ "image": "https://demo.egenslab.com/html/tourx/assets/images/package/p-1.png"
+},
+
+{
+    "id": 2,
+    "name": "Lake Garda, Italy",
+    "Cost": 280,
+    "description": "With only the songs of birds for company, I felt completely isolated from the crowds and traffic as I walked over the deep carpet of leaves. It had begun to rain a litt le when I first started my journey. However, small patches of sunshine soon began to filter through the giant oaks, promising that the rest of may day would be pleasant. I first reached the part of the forest known as Bellringer's Hollow. Colorful wildflowers",
+    "image": "https://demo.egenslab.com/html/tourx/assets/images/package/p-2.png"
+},
+
+{
+    "id": 3,
+    "name": "Mount Dtna, Italy",
+    "Cost": 250,
+     "description": "Whenever the wind blew, it was snowing yellow, and I was covered with them. I would often doze off in that yellow blanket while the sunshine held my feet with her warm hands and the gentle breeze brushed my hair. In my dreams, I climbed that tree all the way up and reached the clouds--the white cotton candies. Carefree, worry free; my younger years... Everything seemed so beautiful in my eyes. Mother Nature was with me",
+    "image": "https://demo.egenslab.com/html/tourx/assets/images/package/p-3.png"
+    
+},
+{
+    "id": 4,
+    "name": "Amalfi Costa, Italy",
+    "Cost": 280,
+    "description": "From that second on I believe that both of would be friends for a lifetime. April moved into the vacant house that was two houses to the east of my house. It was a tall, two-story house in which I could see the entire house from my bedroom window. We spent our days together exploring the woods, riding bikes, and catching bugs. Our families were very close and often said that the two of us were like brother and sister",
+    "image": "https://demo.egenslab.com/html/tourx/assets/images/package/p-4.png"
+    
+},
+{
+    "id": 5,
+    "name": "French Rivira",
+    "Cost": 270,
+    "description": "When my brother and I weren't at battle,I would lay beneath my oak tree and daydream. As I looked up I could see millions of branches protecting me from everything above. At the end of each branch were hundreds of more leaves that would gently catch the morning dew, and carefully allowed it to make its way to the grass. It was like thousands of stars in the sky as the sun caught the drops and allowed them to sparkle",
+    "image": "https://demo.egenslab.com/html/tourx/assets/images/package/p-5.png"
+    
+},
+{
+    "id": 6,
+    "name": "Lake Geneva, France", 
+    "Cost": 280,
+    "description": "The setting takes place mostly in the woods around Andy’s house in Pennsylvania. The season is winter and snow has covered every inch of the woods and Andy’s favorite place to be in, “They had been in her dreams, and she had never lost' sight of them…woods always stayed the same.” (327). While the woods manage to continually stay the same, Andy wants to stay the same too because she is scared of growing up. ",
+    
+    "image": "https://demo.egenslab.com/html/tourx/assets/images/package/p-6.png"
+    
+}
+]
